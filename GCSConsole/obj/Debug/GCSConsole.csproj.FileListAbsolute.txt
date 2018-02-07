@@ -1,0 +1,16 @@
+D:\Users\Witek\Desktop\GCSConsole\GCSConsole\bin\Debug\GCSConsole.exe.config
+D:\Users\Witek\Desktop\GCSConsole\GCSConsole\bin\Debug\GCSConsole.exe
+D:\Users\Witek\Desktop\GCSConsole\GCSConsole\bin\Debug\GCSConsole.pdb
+D:\Users\Witek\Desktop\GCSConsole\GCSConsole\obj\Debug\GCSConsole.csprojResolveAssemblyReference.cache
+D:\Users\Witek\Desktop\GCSConsole\GCSConsole\obj\Debug\GCSConsole.csproj.CoreCompileInputs.cache
+D:\Users\Witek\Desktop\GCSConsole\GCSConsole\obj\Debug\GCSConsole.exe
+D:\Users\Witek\Desktop\GCSConsole\GCSConsole\obj\Debug\GCSConsole.pdb
+D:\Users\Witek\Desktop\GCSConsole\GCSConsole\bin\Debug\EntityFramework.dll
+D:\Users\Witek\Desktop\GCSConsole\GCSConsole\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Witek\Desktop\GCSConsole\GCSConsole\bin\Debug\System.Data.SQLite.dll
+D:\Users\Witek\Desktop\GCSConsole\GCSConsole\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Users\Witek\Desktop\GCSConsole\GCSConsole\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\Witek\Desktop\GCSConsole\GCSConsole\bin\Debug\EntityFramework.xml
+D:\Users\Witek\Desktop\GCSConsole\GCSConsole\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\Witek\Desktop\GCSConsole\GCSConsole\bin\Debug\System.Data.SQLite.xml
+D:\Users\Witek\Desktop\GCSConsole\GCSConsole\bin\Debug\System.Data.SQLite.dll.config
